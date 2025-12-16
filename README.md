@@ -1,4 +1,4 @@
-# Automatic-Lamp-Controller
+# Automatic Lamp Controller
 
 ## Overview
 This project simulates an **automatic lamp system** with independent control of **servo motors and LEDs**, implemented on an **FPGA Cyclone III (EP3C16F484C6)**. The system provides multiple operating modes for both motors and LEDs, demonstrating concepts of **digital design, hardware description languages, and embedded control**.
